@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    padding: 0!important;
+}
+
+.navbar-brand {
+    color: gray!important;
+}
+
+.myTitle {
+    font-family: 'Oleo Script', cursive;
+}
+
+.image_galery {
+    padding: 2px;
+}
+.image_galery img {
+    width: 100%;
+    max-height: 200px;
+}
+.feed {
+    background-color: #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.post {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.content img {
+    width: 100%;
+}
+.f_likes {
+    padding: 10px;
+    color: #303030;
+    font-weight: bold;
+}
+.comment {
+    padding: 10px;
+}
+.f_last {
+    color: grey;
+    padding: 10px;
+}
